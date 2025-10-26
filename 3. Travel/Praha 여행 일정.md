@@ -4,6 +4,7 @@ tags:
 startdate: 2025-10-28
 endDate: 2025-11-01
 location: Praha
+title: Praha 여행 일정
 ---
 # 여정
 ### 항공편
